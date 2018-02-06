@@ -1,0 +1,10 @@
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\bin\Debug\TextSearch.exe.config
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\bin\Debug\TextSearch.exe
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\bin\Debug\TextSearch.pdb
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\obj\Debug\TextSearch.csprojResolveAssemblyReference.cache
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\obj\Debug\TextSearch.Form1.resources
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\obj\Debug\TextSearch.Properties.Resources.resources
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\obj\Debug\TextSearch.csproj.GenerateResource.Cache
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\obj\Debug\TextSearch.csproj.CoreCompileInputs.cache
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\obj\Debug\TextSearch.exe
+C:\Users\Solon\Documents\Visual Studio 2017\Projects\TextSearch\TextSearch\obj\Debug\TextSearch.pdb

@@ -1,0 +1,10 @@
+AaaaaaaaaaONE	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:14:21	21:15:07
+AaaaaaaaaaTWO	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:15:07	21:15:45
+AaaaaaaaaaTHREE	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:15:45	21:16:24
+AaaaaaaaaaFOUR	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:16:24	21:17:01
+AaaaaaaaaaFIVE	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:17:01	21:17:38
+AaaaaaaaaaSIX	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:17:38	21:18:19
+AaaaaaaaaaSEVEN	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:18:19	21:18:52
+AaaaaaaaaaEIGHT	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:18:52	21:19:24
+AaaaaaaaaaNINE	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:19:24	21:20:01
+AaaaaaaaaaTEN	Bbbbbbbbbb	F	1234 Main St.		Dallas	TX	75001	1112223333	abc@utdallas.edu	true	10/1/2017	21:20:01	21:20:31
